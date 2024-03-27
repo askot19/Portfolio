@@ -10,3 +10,7 @@ A versão atual em que ele se encontra não é a versão final, contudo, ela per
 * As tecnologias e ferramentas usadas foram Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, Git e Github (controle de versão), machine learning, algoritmos de classificação, estatística, Anaconda e Google Colaboratory (ambiente de desenvolvimento do projeto).
 
 ## 3. Problema de negócio e objetivo do projeto
+### 3.1 Qual é o problema de negócio?
+* O gerente do negócio está preocupado com a crescente evasão dos clientes com relação aos serviços de telefonia prestados. Seria interessante realizar uma predição para eles do quão suscetível à evasão um cliente possa ser, para que eles possam agir proativamente e fornecer melhores serviços e alterar a decisão de seus clientes.
+### 3.2 Qual o contexto?
+* Em tempos atuais empresas de telefonia oferecem não apenas serviços voltados para comunicação, para manterem-se ativos no mercado são fornecidos também atividades voltadas para lazer, banda larga, backups e segurança online.
