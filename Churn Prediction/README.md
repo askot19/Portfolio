@@ -16,9 +16,10 @@ A versão atual em que ele se encontra não é a versão final, contudo, ela per
 * O gerente do negócio está preocupado com a crescente evasão dos clientes com relação aos serviços de telefonia prestados. Seria interessante realizar uma predição para eles do quão suscetível à evasão um cliente possa ser, para que eles possam agir proativamente e fornecer melhores serviços e alterar a decisão de seus clientes.
 ### 3.2 Qual o contexto?
 * Em tempos atuais empresas de telefonia oferecem não apenas serviços voltados para comunicação, para manterem-se ativos no mercado são fornecidos também atividades voltadas para lazer, banda larga, backups e segurança online.
-* Os KPIs mais correlacionados 
+* Com o auxílio de análises estatísticas, identificaremos quais os Indicadores Chaves de Performance (KPIs) do Churn de clientes desta empresa, podendo traçar estratégias e entender o que motiva ou não a evasão de clientes.
 
 ### 3.3 Quais são os objetivos do projeto?
+
 
 ### 3.4 Quais são os benefícios do projeto?
 
