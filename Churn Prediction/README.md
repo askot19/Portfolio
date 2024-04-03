@@ -19,9 +19,16 @@ A versão atual em que ele se encontra não é a versão final, contudo, ela per
 * Com o auxílio de análises estatísticas, identificaremos quais os Indicadores Chaves de Performance (KPIs) do Churn de clientes desta empresa, podendo traçar estratégias e entender o que motiva ou não a evasão de clientes.
 
 ### 3.3 Quais são os objetivos do projeto?
-
+1. Identificar os fatores associados com o Churn de clientes;
+2. Construir um modelo capaz de prever de maneira acurada a probabilidade de um cliente desistir dos serviços;
+3. Oferecer planos de ação para reduzir a evasão de clientes .
 
 ### 3.4 Quais são os benefícios do projeto?
+1. Redução de custos;
+2. Melhorar a retenção de clientes;
+3. Melhorar a experiência dos clientes;
+4. Marketing direcionado;
+5. Proteção da receita.
 
 ### 3.5 Conclusões
 
