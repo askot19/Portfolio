@@ -30,7 +30,21 @@ A versão atual em que ele se encontra não é a versão final, contudo, ela per
 4. Marketing direcionado;
 5. Proteção da receita.
 
-### 3.5 Conclusões
+### 3.5 Quais questões de negócio vão guiar  o projeto?
+1.  Quais são os principais fatores que influenciam a evasão de clientes?
+2.  Qual é o perfil demográfico dos clientes que mais evadem?
+3.  Como a duração do contrato (mensal, anual, dois anos) afeta a taxa de churn?
+4.  A adesão a serviços adicionais tem impacto na retenção de clientes?
+5.  Clientes com múltiplas linhas telefônicas são menos propensos a evadir?
+6.  O método de pagamento influencia a taxa de churn?
+7.  A existência de cobranças em papel está associada a uma maior taxa de churn?
+8.  Qual é o impacto das cobranças mensais e totais no churn?
+9.  A duração do serviço (tempo de posse) afeta a probabilidade de churn?
+10.  Como a qualidade do serviço de internet afeta a evasão de clientes?
+
+Essas questões de negócio nos fornecem uma base sólida para a análise e modelagem preditiva, o que irá auxiliar a identificar padrões e construir um modelo robusto para a Previsão de Churn. 
+
+### 3.6 Conclusões
 
 ## 4. Pipeline de solução
 
